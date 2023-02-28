@@ -6,4 +6,5 @@ In this project we were asked to create a website and have this website communic
 If you want to know what the tasks are check the "ΗΥ-359_Project_2022_2023.pdf" file, but know that it is in greek.<br>
 The IDE used was Apache Netbeans, VS code.<br>
 The technologies used were HTML5, css, js(ajax requests), java servlets and REST APIs.<br>
-To run the project you will need both the project and the databased used.<br>
+To download the main project go to the link given in the txt file, cause there were too many files to upload it here.<br>
+To run the project you will need both the project and the databased used.<br> 
